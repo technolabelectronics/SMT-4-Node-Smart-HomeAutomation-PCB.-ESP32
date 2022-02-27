@@ -26,9 +26,9 @@ Turn your DIY breadboard circuits into professional PCBs – get 10 boards for a
 
 Once you have your Gerber files, you can order the PCB. Follow the next steps.
 
-Download the Gerber files – click here to download the .zip file
+1.Download the Gerber files – click here to download the .zip file
 
-Go to https://jlcpcb.com/RNA website and Click on Quote Now button.
+2.Go to https://jlcpcb.com/RNA website and Click on Quote Now button.
 
 3.Upload the gerber file you downloaded in the last step. Upload the.zip file or you can also drag and drop the gerber files.
 
